@@ -23,7 +23,7 @@ features:
   - icon: ⚡
     title: スキル
     details: カタログから事前構築スキルを閲覧・使用。
-    - icon: ⚙️
+  - icon: ⚙️
     title: 設定
     details: アカウント、アシスタント、設定を管理。
   - icon: 📋
@@ -33,8 +33,8 @@ features:
 
 ## AIとチャットしてみよう
 
-下部の入力欄に質問を入力してEnterキーを押します。AIがすぐに返事をします。
+質問を入力してEnterキーを押します。AIがすぐに返事をします。
 
 ![AIとチャット](/screenshots/ja/chat-streaming.png)
 
-例えば「2+2は？"Margayは「2+2=4」」と答えます。
+例えば「2+2は？」と聞くと、Margayは「2+2=4」と答えます。

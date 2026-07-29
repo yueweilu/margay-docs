@@ -23,7 +23,7 @@ features:
   - icon: ⚡
     title: 技能
     details: 浏览并使用目录中的预设技能。
-    - icon: ⚙️
+  - icon: ⚙️
     title: 设置
     details: 管理账户、助手和偏好设置。
   - icon: 📋
@@ -33,8 +33,8 @@ features:
 
 ## 尝试与 AI 对话
 
-在底部的输入框中输入问题，按回车键发送。AI 会立即回复。
+在输入框中输入问题，按回车键发送。AI 会立即回复。
 
 ![与 AI 对话](/screenshots/zh/chat-streaming.png)
 
-例如，问 "2+2 等于几？"Margay 会回答 "2+2=4"。
+例如，问 "2+2 等于几？"，Margay 会回答 "2+2=4"。

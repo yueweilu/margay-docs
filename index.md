@@ -23,7 +23,7 @@ features:
   - icon: ⚡
     title: Skills
     details: Browse and use pre-built skills from the catalog.
-    - icon: ⚙️
+  - icon: ⚙️
     title: Settings
     details: Manage your account, assistants, and preferences.
   - icon: 📋
@@ -31,13 +31,10 @@ features:
     details: View version and system information.
 ---
 
-
 ## Try chatting with AI
 
-Type a question in the message box at the bottom and press Enter. The AI replies right away.
+Type a question in the message box and press Enter. The AI replies right away.
 
 ![Chat with AI](/screenshots/en/chat-streaming.png)
 
 For example, ask "What is 2+2?" and Margay will answer "2 + 2 = 4."
-
-
