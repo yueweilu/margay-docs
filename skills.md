@@ -8,5 +8,5 @@ Skills are pre-built tools that extend Margay's capabilities.
 2. Select **Skills** from the settings menu
 3. Browse the available skills catalog
 
-![Skills catalog](/screenshots/chat-streaming.png)
+![Skills catalog](/screenshots/skills-panel.png)
 

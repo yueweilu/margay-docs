@@ -34,8 +34,12 @@ features:
     details: View version and system information.
 ---
 
-## What is Margay?
 
-Margay is a desktop app that brings multiple AI assistants together in one place.
+## Try chatting with AI
 
-![Margay main window](/screenshots/overview-main.png)
+Type a question in the message box at the bottom and press Enter. The AI replies right away.
+
+![Chat with AI](/screenshots/chat-streaming.png)
+
+For example, ask "What is 2+2?" and Margay will answer "2 + 2 = 4."
+

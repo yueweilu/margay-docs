@@ -8,4 +8,4 @@ Margayの機能を拡張する事前構築ツールです。
 2. 設定メニューから **Skills** を選択
 3. 利用可能なスキルカタログを閲覧
 
-![スキルカタログ](/screenshots/chat-streaming.png)
+![スキルカタログ](/screenshots/skills-panel.png)

@@ -34,8 +34,12 @@ features:
     details: 查看版本和系统信息。
 ---
 
-## 什么是 Margay？
 
-Margay 是一款将多种 AI 助手整合到一个地方的桌面应用。
+## Try chatting with AI
 
-![Margay 主窗口](/screenshots/overview-main.png)
+Type a question in the message box at the bottom and press Enter. The AI replies right away.
+
+![Chat with AI](/screenshots/chat-streaming.png)
+
+For example, ask "What is 2+2?" and Margay will answer "2 + 2 = 4."
+

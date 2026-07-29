@@ -34,8 +34,12 @@ features:
     details: バージョンとシステム情報を表示。
 ---
 
-## Margayとは？
 
-Margayは複数のAIアシスタントを一箇所にまとめたデスクトップアプリです。
+## Try chatting with AI
 
-![Margayメイン画面](/screenshots/overview-main.png)
+Type a question in the message box at the bottom and press Enter. The AI replies right away.
+
+![Chat with AI](/screenshots/chat-streaming.png)
+
+For example, ask "What is 2+2?" and Margay will answer "2 + 2 = 4."
+

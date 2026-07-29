@@ -8,4 +8,4 @@
 2. 从设置菜单中选择 **Skills**
 3. 浏览可用的技能目录
 
-![技能目录](/screenshots/chat-streaming.png)
+![技能目录](/screenshots/skills-panel.png)
