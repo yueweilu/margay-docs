@@ -1,6 +1,6 @@
 # System
 
-View system configuration and diagnostic information.
+View system configuration .
 
 ## Accessing System settings
 

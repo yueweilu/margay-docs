@@ -28,7 +28,7 @@ features:
     details: 管理账户、助手和偏好设置。
   - icon: 📋
     title: 关于
-    details: 查看版本和系统信息。
+    details: 查看版本和版本信息。
 ---
 
 ## 尝试与 AI 对话

@@ -28,7 +28,7 @@ features:
     details: Manage your account, assistants, and preferences.
   - icon: 📋
     title: About
-    details: View version and system information.
+    details: View version information.
 ---
 
 ## Try chatting with AI
