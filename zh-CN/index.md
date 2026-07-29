@@ -16,7 +16,7 @@ hero:
 features:
   - icon: 🤖
     title: AI 助手
-    details: Claude、Gemini、Codex 等 — 在设置中配置和管理。
+    details: 在设置中配置和管理 Claude、Gemini 等。
   - icon: 👥
     title: 数字员工
     details: 为常见任务预设的 AI 助手。
@@ -25,7 +25,7 @@ features:
     details: 浏览并使用目录中的预设技能。
   - icon: 🌐
     title: WebUI 访问
-    details: 通过网络上的任何浏览器使用 Margay。
+    details: 通过网络浏览器使用 Margay。
   - icon: ⚙️
     title: 设置
     details: 管理账户、助手和偏好设置。
@@ -34,12 +34,10 @@ features:
     details: 查看版本和系统信息。
 ---
 
+## 尝试与 AI 对话
 
-## Try chatting with AI
+在底部的输入框中输入问题，按回车键发送。AI 会立即回复。
 
-Type a question in the message box at the bottom and press Enter. The AI replies right away.
+![与 AI 对话](/screenshots/chat-streaming.png)
 
-![Chat with AI](/screenshots/chat-streaming.png)
-
-For example, ask "What is 2+2?" and Margay will answer "2 + 2 = 4."
-
+例如，问 "1+1 等于几？"，Margay 会回答 "1+1=2"。

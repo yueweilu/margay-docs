@@ -16,7 +16,7 @@ hero:
 features:
   - icon: 🤖
     title: AIアシスタント
-    details: Claude、Gemini、Codexなど — 設定で管理。
+    details: 設定でClaudeやGeminiなどを管理。
   - icon: 👥
     title: デジタル従業員
     details: 一般的なタスク用の事前設定AIアシスタント。
@@ -34,12 +34,10 @@ features:
     details: バージョンとシステム情報を表示。
 ---
 
+## AIとチャットしてみよう
 
-## Try chatting with AI
+下部の入力欄に質問を入力してEnterキーを押します。AIがすぐに返事をします。
 
-Type a question in the message box at the bottom and press Enter. The AI replies right away.
+![AIとチャット](/screenshots/chat-streaming.png)
 
-![Chat with AI](/screenshots/chat-streaming.png)
-
-For example, ask "What is 2+2?" and Margay will answer "2 + 2 = 4."
-
+例えば「1+1は？」と聞くと、Margayは「1+1=2」と答えます。
