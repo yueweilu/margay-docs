@@ -14,6 +14,12 @@ export default defineConfig({
       ]
     }},
     'zh-CN': { label: '简体中文', lang: 'zh-CN', title: 'Margay 用户指南', description: '你的 AI 助手 — Margay 新手指南', themeConfig: {
+        search: { provider: 'local', options: { translations: { button: { buttonText: '搜索文档' }, modal: { displayDetails: '显示详情', resetButtonTitle: '重置', noResultsText: '无结果', footer: { selectText: '选择', navigateText: '切换' } } } } },
+        docFooter: { prev: '上一页', next: '下一页' },
+        darkModeSwitchLabel: '外观',
+        sidebarMenuLabel: '菜单',
+        returnToTopLabel: '返回顶部',
+        outlineTitle: '本页目录',
       nav: [{text:'首页',link:'/zh-CN/'},
         {text:'账户',link:'/zh-CN/account'},{text:'指南',link:'/zh-CN/agents'}],
       sidebar: [
@@ -25,6 +31,12 @@ export default defineConfig({
       ]
     }},
     ja: { label: '日本語', lang: 'ja-JP', title: 'Margay ユーザーガイド', description: 'あなたのAIアシスタント — Margay 初心者ガイド', themeConfig: {
+        search: { provider: 'local', options: { translations: { button: { buttonText: '検索' }, modal: { displayDetails: '詳細', resetButtonTitle: 'リセット', noResultsText: '結果なし', footer: { selectText: '選択', navigateText: '移動' } } } } },
+        docFooter: { prev: '前のページ', next: '次のページ' },
+        darkModeSwitchLabel: '外観',
+        sidebarMenuLabel: 'メニュー',
+        returnToTopLabel: 'トップへ',
+        outlineTitle: '目次',
       nav: [{text:'ホーム',link:'/ja/'},
         {text:'アカウント',link:'/ja/account'},{text:'ガイド',link:'/ja/agents'}],
       sidebar: [
