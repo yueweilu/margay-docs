@@ -40,4 +40,4 @@ features:
 
 ![AIとチャット](/screenshots/chat-streaming.png)
 
-例えば「1+1は？」と聞くと、Margayは「1+1=2」と答えます。
+例えば「2+2は？"Margayは「2+2=4」」と答えます。

@@ -40,4 +40,4 @@ features:
 
 ![与 AI 对话](/screenshots/chat-streaming.png)
 
-例如，问 "1+1 等于几？"，Margay 会回答 "1+1=2"。
+例如，问 "2+2 等于几？"Margay 会回答 "2+2=4"。
