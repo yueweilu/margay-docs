@@ -6,7 +6,7 @@ hero:
   text: "你的 AI 助手，尽在一处"
   tagline: "与 Claude、Gemini 等 AI 对话 — 就在你的桌面上。"
   image:
-    src: /screenshots/overview-main.png
+    src: /screenshots/zh/overview-main.png
     alt: Margay 主窗口
   actions:
     - theme: brand

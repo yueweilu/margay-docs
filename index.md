@@ -6,7 +6,7 @@ hero:
   text: "Your AI Assistant, All in One Place"
   tagline: "Chat with Claude, Gemini, and more — right from your desktop."
   image:
-    src: /screenshots/overview-main.png
+    src: /screenshots/en/overview-main.png
     alt: Margay main window
   actions:
     - theme: brand

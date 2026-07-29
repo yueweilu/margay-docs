@@ -6,7 +6,7 @@ hero:
   text: "AIアシスタントをひとつに"
   tagline: "Claude、Geminiなどとデスクトップから直接会話。"
   image:
-    src: /screenshots/overview-main.png
+    src: /screenshots/ja/overview-main.png
     alt: Margayメイン画面
   actions:
     - theme: brand
