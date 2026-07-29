@@ -21,3 +21,4 @@ From the settings sidebar you can access:
 - **About** — version information
 
 
+- **Connect** — manage connected apps and channels
