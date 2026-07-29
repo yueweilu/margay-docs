@@ -23,10 +23,7 @@ features:
   - icon: ⚡
     title: スキル
     details: カタログから事前構築スキルを閲覧・使用。
-  - icon: 🌐
-    title: WebUIアクセス
-    details: ネットワーク上のブラウザからMargayを使用。
-  - icon: ⚙️
+    - icon: ⚙️
     title: 設定
     details: アカウント、アシスタント、設定を管理。
   - icon: 📋

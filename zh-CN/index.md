@@ -23,10 +23,7 @@ features:
   - icon: ⚡
     title: 技能
     details: 浏览并使用目录中的预设技能。
-  - icon: 🌐
-    title: WebUI 访问
-    details: 通过网络浏览器使用 Margay。
-  - icon: ⚙️
+    - icon: ⚙️
     title: 设置
     details: 管理账户、助手和偏好设置。
   - icon: 📋

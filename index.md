@@ -23,10 +23,7 @@ features:
   - icon: ⚡
     title: Skills
     details: Browse and use pre-built skills from the catalog.
-  - icon: 🌐
-    title: WebUI Access
-    details: Use Margay from any browser on your network.
-  - icon: ⚙️
+    - icon: ⚙️
     title: Settings
     details: Manage your account, assistants, and preferences.
   - icon: 📋

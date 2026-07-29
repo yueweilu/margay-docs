@@ -19,3 +19,4 @@ From the settings sidebar you can access:
 - **Task** — scheduled task settings
 - **System** — system configuration
 - **About** — version information
+
