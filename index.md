@@ -40,3 +40,4 @@ Type a question in the message box at the bottom and press Enter. The AI replies
 
 For example, ask "What is 2+2?" and Margay will answer "2 + 2 = 4."
 
+
