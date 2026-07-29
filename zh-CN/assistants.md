@@ -4,8 +4,13 @@
 
 ## 查看员工
 
-1. 点击侧边栏底部的设置齿轮
-2. 从设置菜单中选择 **Employee**
-3. 查看可用的数字员工列表
+1. 点击设置齿轮，选择 **Employee**
+2. 查看可用的数字员工列表
 
 ![数字员工](/screenshots/assistants-list.png)
+
+## 添加新员工
+
+点击 **+** 按钮添加新的数字员工。配置其行为、权限和技能。
+
+![添加员工](/screenshots/assistants-add.png)
