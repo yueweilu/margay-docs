@@ -10,4 +10,3 @@ Access Margay from any browser on your network.
 
 ![WebUI settings](/screenshots/webui-settings.png)
 
-WebUI allows you to use Margay from other devices on your local network.

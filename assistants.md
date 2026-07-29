@@ -10,6 +10,5 @@ Digital Employees are pre-configured AI assistants for specific tasks.
 
 ![Digital Employees](/screenshots/assistants-list.png)
 
-## How to use
 
-Select an employee from the settings panel to configure its behavior and permissions.
+

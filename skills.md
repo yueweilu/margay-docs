@@ -10,4 +10,3 @@ Skills are pre-built tools that extend Margay's capabilities.
 
 ![Skills catalog](/screenshots/chat-streaming.png)
 
-Skills can be enabled and configured from the settings panel.
