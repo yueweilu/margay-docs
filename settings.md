@@ -4,21 +4,19 @@ Customize Margay through the settings panel.
 
 ## Opening settings
 
-Click the settings gear icon at the bottom of the sidebar to open the settings panel.
+Click the settings gear icon at the bottom of the sidebar.
 
 ![Settings](/screenshots/en/settings-general.png)
 
 ## Available settings pages
 
 From the settings sidebar you can access:
-- **Account** — view your cloud account and token balance
+- **Account Management** — view your cloud account and token balance
 - **Agents** — configure AI assistants
+- **Connected Apps** — manage external connections
 - **Plugins** — manage extensions
-- **Employee** — digital employee settings
+- **Digital Employee** — digital employee settings
 - **Skills** — browse and manage skills
-- **Task** — scheduled task settings
+- **Task Center** — scheduled task settings
 - **System** — system configuration
 - **About** — version information
-
-
-- **Connect** — manage connected apps and channels

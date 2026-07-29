@@ -11,6 +11,8 @@ Digital Employees are pre-configured AI assistants for specific tasks.
 
 ## Adding a new employee
 
+Click the **+** button to add a new employee. Fill in the name, description, model, and instructions.
+
 Click the **+** or **Add** button to create a new digital employee. Configure its behavior, permissions, and skills.
 
 ![Add Employee](/screenshots/en/assistants-add.png)
