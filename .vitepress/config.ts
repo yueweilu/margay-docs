@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Margay User Guide', base: '/margay-docs/', cleanUrls: true,
   locales: {
-    root: { label: 'English', lang: 'en-US', themeConfig: {
+    root: { label: 'English', lang: 'en-US', title: 'Margay User Guide', description: 'Your AI assistant — beginner guides for Margay', themeConfig: {
       nav: [{text:'Home',link:'/'},
         {text:'Account',link:'/account'},{text:'Guides',link:'/agents'}],
       sidebar: [
@@ -13,7 +13,7 @@ export default defineConfig({
         {text:'System',link:'/system'},{text:'Settings',link:'/settings'},
       ]
     }},
-    'zh-CN': { label: '简体中文', lang: 'zh-CN', themeConfig: {
+    'zh-CN': { label: '简体中文', lang: 'zh-CN', title: 'Margay 用户指南', description: '你的 AI 助手 — Margay 新手指南', themeConfig: {
       nav: [{text:'首页',link:'/zh-CN/'},
         {text:'账户',link:'/zh-CN/account'},{text:'指南',link:'/zh-CN/agents'}],
       sidebar: [
@@ -24,7 +24,7 @@ export default defineConfig({
         {text:'系统',link:'/zh-CN/system'},{text:'设置',link:'/zh-CN/settings'},
       ]
     }},
-    ja: { label: '日本語', lang: 'ja-JP', themeConfig: {
+    ja: { label: '日本語', lang: 'ja-JP', title: 'Margay ユーザーガイド', description: 'あなたのAIアシスタント — Margay 初心者ガイド', themeConfig: {
       nav: [{text:'ホーム',link:'/ja/'},
         {text:'アカウント',link:'/ja/account'},{text:'ガイド',link:'/ja/agents'}],
       sidebar: [
