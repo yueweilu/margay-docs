@@ -11,7 +11,6 @@ export default defineConfig({
         {text:'Plugins',link:'/plugins'},{text:'Employees',link:'/assistants'},
         {text:'Skills',link:'/skills'},{text:'Task Center',link:'/tasks'},
         {text:'System',link:'/system'},{text:'Settings',link:'/settings'},
-        {text:'WebUI',link:'/webui'}
       ]
     }},
     'zh-CN': { label: '简体中文', lang: 'zh-CN', themeConfig: {
@@ -23,7 +22,6 @@ export default defineConfig({
         {text:'插件',link:'/zh-CN/plugins'},{text:'数字员工',link:'/zh-CN/assistants'},
         {text:'技能',link:'/zh-CN/skills'},{text:'任务中心',link:'/zh-CN/tasks'},
         {text:'系统',link:'/zh-CN/system'},{text:'设置',link:'/zh-CN/settings'},
-        {text:'WebUI',link:'/zh-CN/webui'}
       ]
     }},
     ja: { label: '日本語', lang: 'ja-JP', themeConfig: {
@@ -35,7 +33,6 @@ export default defineConfig({
         {text:'プラグイン',link:'/ja/plugins'},{text:'従業員',link:'/ja/assistants'},
         {text:'スキル',link:'/ja/skills'},{text:'タスク',link:'/ja/tasks'},
         {text:'システム',link:'/ja/system'},{text:'設定',link:'/ja/settings'},
-        {text:'WebUI',link:'/ja/webui'}
       ]
     }}
   },
