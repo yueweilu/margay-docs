@@ -13,6 +13,5 @@ Skills are pre-built tools that extend Margay's capabilities.
 
 Click the button to import a skill from a folder.
 
-Click the **+** or **Add Skill** button to add a new skill from the catalog or import one.
 
 ![Add Skill](/screenshots/en/skills-add.png)

@@ -13,7 +13,7 @@ Click the settings gear icon at the bottom of the sidebar.
 From the settings sidebar you can access:
 - **Account Management** — view your cloud account and token balance
 - **Agents** — configure AI assistants
-- **Connected Apps** — manage external connections
+- **Connect** — manage external connections
 - **Plugins** — manage extensions
 - **Digital Employee** — digital employee settings
 - **Skills** — browse and manage skills

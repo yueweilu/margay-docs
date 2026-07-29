@@ -4,7 +4,7 @@
 
 ## 查看员工
 
-1. 点击设置齿轮，选择 **Employee**
+1. 点击设置齿轮，选择 **Employee****
 2. 查看可用的数字员工列表
 
 ![数字员工](/screenshots/zh/assistants-list.png)
@@ -13,6 +13,5 @@
 
 点击 **+** 按钮添加新员工。填写名称、描述、模型和指令。
 
-点击 **+** 按钮添加新的数字员工。配置其行为、权限和技能。
 
 ![添加员工](/screenshots/zh/assistants-add.png)
