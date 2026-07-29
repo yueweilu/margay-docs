@@ -6,7 +6,7 @@
 
 点击侧边栏底部的设置齿轮图标打开设置面板。
 
-![设置](/screenshots/settings-general.png)
+![设置](/screenshots/zh/settings-general.png)
 
 ## 可用的设置页面
 

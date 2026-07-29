@@ -8,4 +8,4 @@ Margayを外部メッセージプラットフォームに接続します。
 2. 設定メニューから **Connect** を選択
 3. 利用可能な接続オプションを表示
 
-![接続アプリ](/screenshots/settings-connect.png)
+![接続アプリ](/screenshots/ja/settings-connect.png)

@@ -7,10 +7,10 @@
 1. 点击设置齿轮，选择 **Skills**
 2. 浏览可用的技能目录
 
-![技能目录](/screenshots/skills-panel.png)
+![技能目录](/screenshots/zh/skills-panel.png)
 
 ## 添加新技能
 
 点击 **添加技能** 按钮从目录中添加或导入新技能。
 
-![添加技能](/screenshots/skills-add.png)
+![添加技能](/screenshots/zh/skills-add.png)

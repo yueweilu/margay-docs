@@ -8,4 +8,4 @@ Margayのバージョンとシステム情報を表示します。
 2. 設定メニューから **About** を選択
 3. 現在のバージョンとビルド情報が表示されます
 
-![Margayについて](/screenshots/installation.png)
+![Margayについて](/screenshots/ja/installation.png)

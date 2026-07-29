@@ -6,7 +6,7 @@
 
 サイドバー下部の設定ギアアイコンをクリックして設定パネルを開きます。
 
-![設定](/screenshots/settings-general.png)
+![設定](/screenshots/ja/settings-general.png)
 
 ## 利用可能な設定ページ
 

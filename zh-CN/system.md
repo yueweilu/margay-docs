@@ -8,4 +8,4 @@
 2. 从设置菜单中选择 **System**
 3. 查看系统路径和配置
 
-![系统设置](/screenshots/channels-config.png)
+![系统设置](/screenshots/zh/channels-config.png)

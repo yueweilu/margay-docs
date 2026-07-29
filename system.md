@@ -8,4 +8,4 @@ View system configuration and diagnostic information.
 2. Select **System** from the settings menu
 3. View system paths and configuration
 
-![System settings](/screenshots/channels-config.png)
+![System settings](/screenshots/en/channels-config.png)

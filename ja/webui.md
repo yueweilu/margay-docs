@@ -8,4 +8,4 @@
 2. 設定メニューから **WebUI** を選択
 3. WebUI設定オプションを表示
 
-![WebUI設定](/screenshots/webui-settings.png)
+![WebUI設定](/screenshots/ja/webui-settings.png)

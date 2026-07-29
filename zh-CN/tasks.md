@@ -8,4 +8,4 @@
 2. 从设置菜单中选择 **Task**
 3. 查看已配置的任务及其状态
 
-![任务中心](/screenshots/scheduled-task-create.png)
+![任务中心](/screenshots/zh/scheduled-task-create.png)

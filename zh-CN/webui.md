@@ -8,4 +8,4 @@
 2. 从设置菜单中选择 **WebUI**
 3. 查看 WebUI 配置选项
 
-![WebUI 设置](/screenshots/webui-settings.png)
+![WebUI 设置](/screenshots/zh/webui-settings.png)

@@ -8,5 +8,5 @@ View Margay version and system information.
 2. Select **About** from the settings menu
 3. You'll see the current version and build information
 
-![About Margay](/screenshots/installation.png)
+![About Margay](/screenshots/en/installation.png)
 

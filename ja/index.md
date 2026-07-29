@@ -38,6 +38,6 @@ features:
 
 下部の入力欄に質問を入力してEnterキーを押します。AIがすぐに返事をします。
 
-![AIとチャット](/screenshots/chat-streaming.png)
+![AIとチャット](/screenshots/ja/chat-streaming.png)
 
 例えば「2+2は？"Margayは「2+2=4」」と答えます。

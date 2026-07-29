@@ -8,4 +8,4 @@ Manage extensions and plugins for Margay.
 2. Select **Plugins** from the settings menu
 3. View installed and available plugins
 
-![Plugins](/screenshots/settings-plugins.png)
+![Plugins](/screenshots/en/settings-plugins.png)

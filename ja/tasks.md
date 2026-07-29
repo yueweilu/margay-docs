@@ -8,4 +8,4 @@ Margayのスケジュールタスクを表示・管理します。
 2. 設定メニューから **Task** を選択
 3. 設定済みタスクとそのステータスを表示
 
-![タスクセンター](/screenshots/scheduled-task-create.png)
+![タスクセンター](/screenshots/ja/scheduled-task-create.png)

@@ -8,4 +8,4 @@
 2. 設定メニューから **System** を選択
 3. システムパスと設定を表示
 
-![システム設定](/screenshots/channels-config.png)
+![システム設定](/screenshots/ja/channels-config.png)

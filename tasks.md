@@ -8,6 +8,6 @@ View and manage scheduled tasks in Margay.
 2. Select **Task** from the settings menu
 3. View configured tasks and their status
 
-![Task Center](/screenshots/scheduled-task-create.png)
+![Task Center](/screenshots/en/scheduled-task-create.png)
 
 Tasks can be configured to run on a schedule for automation.

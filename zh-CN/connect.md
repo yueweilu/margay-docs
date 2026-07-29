@@ -8,4 +8,4 @@
 2. 从设置菜单中选择 **Connect**
 3. 查看可用的连接选项
 
-![连接应用](/screenshots/settings-connect.png)
+![连接应用](/screenshots/zh/settings-connect.png)

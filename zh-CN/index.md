@@ -38,6 +38,6 @@ features:
 
 在底部的输入框中输入问题，按回车键发送。AI 会立即回复。
 
-![与 AI 对话](/screenshots/chat-streaming.png)
+![与 AI 对话](/screenshots/zh/chat-streaming.png)
 
 例如，问 "2+2 等于几？"Margay 会回答 "2+2=4"。

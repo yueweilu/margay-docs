@@ -6,4 +6,4 @@
 2. Select **Agents** from the settings menu
 3. You will see a list of configured AI assistants
 
-![Agent settings](/screenshots/agent-selector.png)
+![Agent settings](/screenshots/en/agent-selector.png)

@@ -6,7 +6,7 @@ Customize Margay through the settings panel.
 
 Click the settings gear icon at the bottom of the sidebar to open the settings panel.
 
-![Settings](/screenshots/settings-general.png)
+![Settings](/screenshots/en/settings-general.png)
 
 ## Available settings pages
 

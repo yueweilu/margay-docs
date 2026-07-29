@@ -8,4 +8,4 @@ Margayの拡張機能とプラグインを管理します。
 2. 設定メニューから **Plugins** を選択
 3. インストール済みおよび利用可能なプラグインを表示
 
-![プラグイン](/screenshots/settings-plugins.png)
+![プラグイン](/screenshots/ja/settings-plugins.png)

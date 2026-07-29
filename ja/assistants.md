@@ -7,10 +7,10 @@
 1. 設定ギアをクリックし、**Employee** を選択
 2. 利用可能なデジタル従業員の一覧を表示
 
-![デジタル従業員](/screenshots/assistants-list.png)
+![デジタル従業員](/screenshots/ja/assistants-list.png)
 
 ## 新しい従業員を追加
 
 **+** ボタンをクリックして新しいデジタル従業員を追加します。動作、権限、スキルを設定できます。
 
-![従業員を追加](/screenshots/assistants-add.png)
+![従業員を追加](/screenshots/ja/assistants-add.png)

@@ -7,10 +7,10 @@ Margayの機能を拡張する事前構築ツールです。
 1. 設定ギアをクリックし、**Skills** を選択
 2. 利用可能なスキルカタログを閲覧
 
-![スキルカタログ](/screenshots/skills-panel.png)
+![スキルカタログ](/screenshots/ja/skills-panel.png)
 
 ## 新しいスキルを追加
 
 **追加** ボタンをクリックしてカタログから新しいスキルを追加するか、インポートします。
 
-![スキルを追加](/screenshots/skills-add.png)
+![スキルを追加](/screenshots/ja/skills-add.png)

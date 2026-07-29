@@ -8,6 +8,6 @@ Margayは複数のAIアシスタントをサポートしています。設定で
 2. 設定メニューから **Agents** を選択
 3. 設定済みのAIアシスタント一覧を表示
 
-![Agent設定](/screenshots/agent-selector.png)
+![Agent設定](/screenshots/ja/agent-selector.png)
 
 Claude Code、Gemini CLI、Codex、Kimiなどに対応。

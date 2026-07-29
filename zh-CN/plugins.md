@@ -8,4 +8,4 @@
 2. 从设置菜单中选择 **Plugins**
 3. 查看已安装和可用的插件
 
-![插件](/screenshots/settings-plugins.png)
+![插件](/screenshots/zh/settings-plugins.png)

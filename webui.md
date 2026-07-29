@@ -8,5 +8,5 @@ Access Margay from any browser on your network.
 2. Select **WebUI** from the settings menu
 3. You will see the WebUI configuration options
 
-![WebUI settings](/screenshots/webui-settings.png)
+![WebUI settings](/screenshots/en/webui-settings.png)
 
