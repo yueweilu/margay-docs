@@ -3,7 +3,8 @@ export default defineConfig({
   title: 'Margay User Guide', base: '/margay-docs/', cleanUrls: true,
   locales: {
     root: { label: 'English', lang: 'en-US', themeConfig: {
-      nav: [{text:'Home',link:'/'},{text:'Guides',link:'/agents'}],
+      nav: [{text:'Home',link:'/'},
+        {text:'Account',link:'/account'},{text:'Guides',link:'/agents'}],
       sidebar: [
         {text:'Home',link:'/'},{text:'About',link:'/installation'},
         {text:'Agents',link:'/agents'},{text:'Connect',link:'/connect'},
@@ -14,7 +15,8 @@ export default defineConfig({
       ]
     }},
     'zh-CN': { label: '简体中文', lang: 'zh-CN', themeConfig: {
-      nav: [{text:'首页',link:'/zh-CN/'},{text:'指南',link:'/zh-CN/agents'}],
+      nav: [{text:'首页',link:'/zh-CN/'},
+        {text:'账户',link:'/zh-CN/account'},{text:'指南',link:'/zh-CN/agents'}],
       sidebar: [
         {text:'首页',link:'/zh-CN/'},{text:'关于',link:'/zh-CN/installation'},
         {text:'Agents',link:'/zh-CN/agents'},{text:'连接',link:'/zh-CN/connect'},
@@ -25,7 +27,8 @@ export default defineConfig({
       ]
     }},
     ja: { label: '日本語', lang: 'ja-JP', themeConfig: {
-      nav: [{text:'ホーム',link:'/ja/'},{text:'ガイド',link:'/ja/agents'}],
+      nav: [{text:'ホーム',link:'/ja/'},
+        {text:'アカウント',link:'/ja/account'},{text:'ガイド',link:'/ja/agents'}],
       sidebar: [
         {text:'ホーム',link:'/ja/'},{text:'について',link:'/ja/installation'},
         {text:'Agents',link:'/ja/agents'},{text:'接続',link:'/ja/connect'},
