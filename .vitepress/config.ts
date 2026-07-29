@@ -20,7 +20,7 @@ export default defineConfig({
         sidebarMenuLabel: '菜单',
         returnToTopLabel: '返回顶部',
         outlineTitle: '本页目录',
-        footer: { message: 'Margay 团队用心打造', copyright: 'Copyright © 2026 Margay' },
+        footer: { message: 'Margay 团队用心打造', copyright: '版权所有 © 2026 Margay' },
       nav: [{text:'首页',link:'/zh-CN/'},
         {text:'账户',link:'/zh-CN/account'},{text:'指南',link:'/zh-CN/agents'}],
       sidebar: [
@@ -38,7 +38,7 @@ export default defineConfig({
         sidebarMenuLabel: 'メニュー',
         returnToTopLabel: 'トップへ',
         outlineTitle: '目次',
-        footer: { message: 'Margayチームが心を込めて作成', copyright: 'Copyright © 2026 Margay' },
+        footer: { message: 'Margayチームが心を込めて作成', copyright: '© 2026 Margay' },
       nav: [{text:'ホーム',link:'/ja/'},
         {text:'アカウント',link:'/ja/account'},{text:'ガイド',link:'/ja/agents'}],
       sidebar: [
